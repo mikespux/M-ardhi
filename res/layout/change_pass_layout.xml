@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.bk.lrandom.droidmarket"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_app"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="10dp" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/old_pass"
+                style="@style/common_text_view" />
+
+            <EditText
+                android:id="@+id/old_pass"
+                style="@style/common_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp" 
+                android:inputType="textPassword">
+            </EditText>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/new_pass"
+                style="@style/common_text_view" />
+
+            <EditText
+                android:id="@+id/new_pass"
+                style="@style/common_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:inputType="textPassword" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/confirm_pass"
+                style="@style/common_text_view" />
+
+            <EditText
+                android:id="@+id/cfm_pass"
+                style="@style/common_text"
+                android:layout_width="match_parent"
+                android:layout_height="40dp" 
+                android:inputType="textPassword"/>
+
+            <Button
+                android:id="@+id/btn_update"
+                style="@style/common_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:text="@string/update_label" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>
