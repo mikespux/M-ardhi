@@ -5,23 +5,24 @@ The system will enable users (buyers) to search land parcels of interest posted 
 It is expected that M-Ardhi will greatly minimize the time and resources used to acquire a parcel of land.
 
 # Objectives:
-To enable sellers advertise lands on sale.
-To enable potential buyers to search for land at places of interest.
-To show the exact location of a piece of land. 
-To show land on sale near ones location.
-To auto send sms to clients if new advertisements are uploaded suiting their criteria.
+To enable sellers advertise lands on sale.<br>
+To enable potential buyers to search for land at places of interest.<br>
+To show the exact location of a piece of land. <br>
+To show land on sale near ones location.<br>
+To auto send sms to clients if new advertisements are uploaded suiting their criteria.<br>
 
 
 <p align="center">
 <img src="/Screenshots/Screenshot1.png" width="30%">
 <img src="/Screenshots/Screenshot2.png" width="30%">
 <img src="/Screenshots/Screenshot3.png" width="30%">
-<br/>
+<br>
+<br>
 <img src="/Screenshots/Screenshot4.png" width="30%">
 <img src="/Screenshots/Screenshot5.png" width="30%">
 <img src="/Screenshots/Screenshot6.png" width="30%">
 </p>
 <p align="center">
 To auto send sms to clients if new advertisements are uploaded suiting their criteria.
-<img src="/Screenshots/Screenshot7.png" width="30%">
+<img src="/Screenshots/SMS.png" width="30%">
 </p>
