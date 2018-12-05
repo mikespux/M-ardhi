@@ -26,8 +26,10 @@ To auto send sms to clients if new advertisements are uploaded suiting their cri
 Below is the autotext sent to clients if new advertisements are uploaded suiting their criteria.<br>
 <img src="/Screenshots/sms.png" width="30%">
 </p>
+
 # Backend
 <p align="center">
 <img src="/Screenshots/adminlogin.PNG" width="30%">
-<img src="/Screenshots/dashboard.PNG" width="30%">
+  <br>
+<img src="/Screenshots/dashboard.PNG" width="100%">
 </p>
