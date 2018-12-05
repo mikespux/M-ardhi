@@ -32,4 +32,8 @@ Below is the autotext sent to clients if new advertisements are uploaded suiting
 <img src="/Screenshots/adminlogin.PNG" width="30%">
   <br>
 <img src="/Screenshots/dashboard.PNG" width="100%">
+    <br>
+<img src="/Screenshots/lands.PNG" width="100%">
+    <br>
+<img src="/Screenshots/county.PNG" width="100%">
 </p>
