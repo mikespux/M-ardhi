@@ -4,7 +4,7 @@ M–Ardhi is an android mobile application that will enable the citizens of Keny
 The system will enable users (buyers) to search land parcels of interest posted by the sellers and also show the exact location of a particular piece of land using Google maps to give a clearer picture of a certain parcel in terms of location, size, fertility, sloppiness, closeness to social amenities. The system user will also be able see lands on sale near his/her location via GPS. A sms notification will all be sent to the buyers who subscribed on places of interested, once a land has been advertised on that area. 
 It is expected that M-Ardhi will greatly minimize the time and resources used to acquire a parcel of land.
 
-# Objectives:
+# Objectives
 To enable sellers advertise lands on sale.<br>
 To enable potential buyers to search for land at places of interest.<br>
 To show the exact location of a piece of land. <br>
@@ -24,5 +24,5 @@ To auto send sms to clients if new advertisements are uploaded suiting their cri
 </p>
 <p align="center">
 To auto send sms to clients if new advertisements are uploaded suiting their criteria.
-<img src="/Screenshots/SMS.png" width="30%">
+<img src="/Screenshots/sms.png" width="30%">
 </p>
