@@ -1,3 +1,6 @@
+***** M-Ardhi was an Android mobile application developed as a university project to assist Kenyan citizens in accessing land parcel listings. However, the project is no longer maintained or updated. ****
+
+
 For as long as we can remember, our country has seen a significant increase in land transactions. These transactions, encompassing buying, selling, and renting of land, have traditionally been handled manually, often involving intermediaries or brokers. This method not only proves to be tedious but also time-consuming. To address this issue, I have devised a technological solution, as outlined below.
 
 # M-ardhi
